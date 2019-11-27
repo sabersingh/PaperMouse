@@ -1,4 +1,4 @@
-# PaperMouse:3mouse:
+# PaperMouse :3mouse:
 ![Cover Image](https://cdn.instructables.com/F3U/GG5M/JEEUB9DN/F3UGG5MJEEUB9DN.LARGE.jpg?auto=webp&frame=1&fit=bounds)
 This project shows the ability of controlling mouse pointer with the power of Capacitive Sensors and build a mouse using an Arduino Pro Micro and some home built Capacitive Sensors and a sheet of paper.
 
